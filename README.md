@@ -57,10 +57,7 @@ This project implements a hand gesture-based volume control system using OpenCV,
 
 ## Demonstration
 
-<video width="600" controls autoplay loop>
-  <source src="resources/VolumeGestureControl.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo GIF](resources/VolumeGestureControl.gif)
 
 ## Troubleshooting
 
