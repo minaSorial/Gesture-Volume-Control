@@ -51,7 +51,7 @@ This project implements a hand gesture-based volume control system using OpenCV,
 │   ├── HandTackingModule.py   # Hand tracking module
 │   ├── hand_volume_control.py # Main script for volume control
 ├── resources              # Contains images and videos
-│   ├── VolumeGestureControl.mp4 # Demo video
+│   ├── VolumeGestureControl.gif # Demo GIF
 ├── README.md              # Project documentation
 ```
 
